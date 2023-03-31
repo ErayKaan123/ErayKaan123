@@ -1,5 +1,5 @@
 # About Me:
-My name is Eray Kaan and I'm a 16 year old programmer from Switzerland. I'm passionate about creating new things and pushing my programming skills to the next level. I started coding when I was 12 years old and since then I've been learning and creating new projects.<br><br>
+My name is Eray Kaan and I'm a 16 year old programmer from Switzerland. I'm passionate about creating new things and pushing my programming skills to the next level. I started coding when I was 14 years old and since then I've been learning and creating new projects.<br><br>
 
 
 ## 🌐 Socials:
